@@ -1,5 +1,5 @@
 # Aitheletix
-## 💪 AI Gym Planner
+### 💪 AI Gym Planner
 #### 🔰 Overview
 
 - Gym Planner is a full-stack web application designed to help users create and manage personalized workout routines with ease. The platform allows users to sign up, define their fitness goals, and generate structured training plans tailored to their needs. With a responsive and user-friendly interface, it ensures a smooth experience across devices.
