@@ -62,7 +62,7 @@ Proper backend configuration to ensure secure communication between services.
 - Bhuvan Anupoju.
 
 ## 👦 About Me
-Hello Bhuvan here, I am a Full Stack JavaScript Developer specializing in Node.js, Express.js, and React.js with strong problem-solving skills, building scalable and efficient web applications.
+Hello, Bhuvan here, I am a Full Stack JavaScript Developer specializing in Node.js, Express.js, and React.js with strong problem-solving skills, building scalable and efficient web applications.
 
 
 ## 🔗 Contact me on
