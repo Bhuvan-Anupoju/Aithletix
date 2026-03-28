@@ -10,7 +10,12 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-app.use(cors());
+app.use(
+  cors({
+    origin: "https://aithletix-bhuvan.onrender.com",
+    credentials: true,
+  }),
+);
 app.use(cookieParser());
 app.use(express.json());
 
