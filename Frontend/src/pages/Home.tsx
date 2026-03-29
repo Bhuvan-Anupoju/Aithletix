@@ -64,8 +64,8 @@ export default function Home() {
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6">
             Your Perfect
             <br />
-            <span className="text-[var(--color-accent)]">Aithletix</span> in
-            Seconds
+            <span className="text-[var(--color-accent)]">Gym Plan</span> in
+            Seconds with AI
           </h1>
 
           <p className="text-xl text-[var(--color-muted)] max-w-2xl mx-auto mb-10">
